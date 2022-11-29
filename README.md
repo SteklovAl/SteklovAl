@@ -6,6 +6,6 @@ I’m currently learning backend development in Python
 
 Contact me:
 
-Telegram: @AleksandrSteklov
+- Telegram: @AleksandrSteklov
 
-e-mail: stekaleksandr@yandex.ru
+- e-mail: stekaleksandr@yandex.ru
